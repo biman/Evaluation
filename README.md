@@ -13,4 +13,3 @@ output_meteor: Output from meteor. Has one label from among {-1,0,1} correspondi
 output_classifier: Output from classifier. Has same format as output_meteor.
 
 output files can be gives as input to compare-with-human-evaluation to get accuracy of evaluation performed. 
-
